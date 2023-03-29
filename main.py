@@ -36,6 +36,7 @@ def string_permutation(x,y):
             list.append(i)
     print(max(list,key=len))
 
+string_permutation('happy','kspdya')
 
 
 
